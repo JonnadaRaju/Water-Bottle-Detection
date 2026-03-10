@@ -5,7 +5,7 @@
 
 | Input Image | Prediction Output |
 |---|---|
-| ![Input](images\images (6).jpeg) | ![Output](images\prediction-1.jpeg) |
+| ![Input](images/images%20(6).jpeg) | ![Output](images/prediction-1.jpeg) |
 
 > Model detected `plastic_bottle` with **0.90 confidence** ✅
 
