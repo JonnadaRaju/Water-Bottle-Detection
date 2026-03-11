@@ -8,7 +8,7 @@
 | ![Input](images/images%20(6).jpeg) | ![Output](images/prediction-1.jpeg) |
 | ![Webcam](images/webcam-sample.jpeg) | |
 
-> Model detected `plastic_bottle` with **0.90 confidence** ✅
+> Model detected `plastic_bottle` with **0.89 confidence** ✅
 
 ---
 
