@@ -37,16 +37,13 @@ around detected bottles in any image or video feed.
 
 ## 📸 Demo
 
-### Before vs After Detection
+### After Detection
 
 <div align="center">
 
-| Input Image | Prediction Output |
-|:-----------:|:-----------------:|
-| ![Input](images/demo/input_plastic.jpg) | ![Output](images/demo/output_plastic.jpg) |
-| ![Input2](images/demo/input_steel.jpg) | ![Output2](images/demo/output_steel.jpg) |
+![Output](images/output.png) 
 
-> ✅ Model detected `plastic_bottle`
+> ✅ Model detected `plastic_bottle` and `steel_bottle`
 > with **0.89 confidence**
 
 </div>
