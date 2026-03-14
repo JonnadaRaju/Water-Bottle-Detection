@@ -45,7 +45,7 @@ The model draws **bounding boxes with confidence scores** around detected bottle
 
 <img src="https://jonnadaraju.github.io/Real-Time-Bottle-Detection/images/output.png" width="700">
 
-<b>Model detected plastic_bottle and steel_bottle with 0.89 confidence</b>
+<p><b>✅ Model detected plastic_bottle and steel_bottle with 0.89 confidence</b></p>
 
 </div>
 
